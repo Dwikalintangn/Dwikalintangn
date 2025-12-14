@@ -19,15 +19,15 @@ I'm a **Full Stack Developer** with experience in **Laravel, PHP, JavaScript**, 
 ---
 
 ## 📊 GitHub Stats
-![Dwika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwikalintang&show_icons=true&theme=radical)
+![Dwika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwikalintangn&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwikalintang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dwikalintang](https://www.linkedin.com/in/dwika-lintang-nugraha/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwikalintangn@gmail.com)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwikalintang&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwikalintangn&layout=compact)
 
