@@ -56,16 +56,16 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=dwikalintangn&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwikalintangn&layout=compact&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Dwikalintangn&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwikalintangn&layout=compact&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+  </table>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwikalintangn&theme=radical&hide_border=true" alt="dwika's streak" />
 </div>
