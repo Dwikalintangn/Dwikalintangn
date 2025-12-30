@@ -56,16 +56,16 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwikalintangn&show_icons=true&theme=radical&hide_border=true" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwikalintangn&layout=compact&theme=radical&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=dwikalintangn&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwikalintangn&layout=compact&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwikalintangn&theme=radical&hide_border=true" alt="dwika's streak" />
 </div>
@@ -73,5 +73,5 @@
 ---
 
 <div align="center">
-  <p><i>Terima kasih telah berkunjung! Jangan lupa kasih ⭐ di repository ini.</i></p>
+  <p><i>Terima kasih telah berkunjung! Jangan lupa kasih ⭐ di repository saya</i></p>
 </div>
