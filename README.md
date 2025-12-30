@@ -12,9 +12,10 @@
 
 ---
 
-### 🐍 My Coding Activity (Snake Game)
+  ### 🐍 My Coding Activity (Snake Game)
 <div align="center">
-  <img src="github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/dwikalintangn/dwikalintangn/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 </div>
 
 ---
